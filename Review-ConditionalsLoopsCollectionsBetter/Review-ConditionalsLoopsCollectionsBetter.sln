@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Review-ConditionalsLoopsCollectionsBetter", "Review-ConditionalsLoopsCollectionsBetter\Review-ConditionalsLoopsCollectionsBetter.csproj", "{5222B34D-0D62-4E61-AECF-D7C5F2302FA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Review-Methods", "Review-Methods\Review-Methods.csproj", "{39298DF5-962D-4435-9B93-0AEBB39D0EE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5222B34D-0D62-4E61-AECF-D7C5F2302FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5222B34D-0D62-4E61-AECF-D7C5F2302FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5222B34D-0D62-4E61-AECF-D7C5F2302FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39298DF5-962D-4435-9B93-0AEBB39D0EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39298DF5-962D-4435-9B93-0AEBB39D0EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39298DF5-962D-4435-9B93-0AEBB39D0EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39298DF5-962D-4435-9B93-0AEBB39D0EE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
