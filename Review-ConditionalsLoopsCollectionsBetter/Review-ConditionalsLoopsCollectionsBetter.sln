@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Review-ConditionalsLoopsCol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Review-Methods", "Review-Methods\Review-Methods.csproj", "{39298DF5-962D-4435-9B93-0AEBB39D0EE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Review-Classes", "Review-Classes\Review-Classes.csproj", "{0FC12B87-6CCC-404B-B57D-9559A0D710AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{39298DF5-962D-4435-9B93-0AEBB39D0EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39298DF5-962D-4435-9B93-0AEBB39D0EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39298DF5-962D-4435-9B93-0AEBB39D0EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC12B87-6CCC-404B-B57D-9559A0D710AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC12B87-6CCC-404B-B57D-9559A0D710AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC12B87-6CCC-404B-B57D-9559A0D710AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC12B87-6CCC-404B-B57D-9559A0D710AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
